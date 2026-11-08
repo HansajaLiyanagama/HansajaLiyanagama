@@ -1,4 +1,5 @@
 ## Hi there 👋, I'm Hansaja Liyanagama
+### I'm a Computer Engineering student at University of Peradeniya
 
 ## 🏅 HackerRank Badges
 
