@@ -1,5 +1,9 @@
 ## Hi there 👋, I'm Hansaja Liyanagama
 
+## 🏅 HackerRank Badges
+
+[![My HackerRank badges](hackerrank-badges.png)](https://www.hackerrank.com/profile/dihanhansajaliy1)
+
 <!--
 **HansajaLiyanagama/HansajaLiyanagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
